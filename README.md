@@ -4,4 +4,5 @@ The purpose of this project is to find out what are the most frequent words in S
 
 filename | description
 ------------ | -------------
-WebScrapingTranscripts.py | Used beautifulsoup and requests library to extract transcripts of Star Wars movies.  
+WebScrapingTranscripts.py | Used beautifulsoup and requests library to extract transcripts of Star Wars movies. 
+WordFrequencyStarWars.ipnyb |  
