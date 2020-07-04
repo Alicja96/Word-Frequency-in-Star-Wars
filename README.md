@@ -2,6 +2,7 @@
 
 <img src="images/starwarslogo.png" width="900" height="300" />
 
+Tools: beautifulsoup, requests, pandas, plotly, nltk 
 
 
 The purpose of this project is to find out what are the most frequent words in Star Wars movies and how often they occur.
