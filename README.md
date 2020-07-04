@@ -5,7 +5,7 @@
 ### Tools: beautifulsoup, requests, pandas, plotly, nltk 
 
 
-The purpose of this project is to find out what are the most frequent words in Star Wars movies and how often they occur.
+In this project, I will try to find out which words occurred more frequently in Star Wars movies. To do this I extracted transcripts of those movies from transcripts.fandom.com with use of beautifulsoup and requests. After that, I performed data cleaning and analysis using nltk.  
 
 
 
