@@ -35,6 +35,3 @@ The most popular word in 'The Force Awakens' was Rey, for 'The Last Jedi' it was
 
  The most common word in Star Wars movies is luke and it occurs 929 times.
  
- ## Wordcloud
- 
-  <img src="images/wordcloud.png" width="900"/>
