@@ -22,4 +22,4 @@ filename | description
 
 Most frequent word in the first three movies : 'A New Hope','Empire Strikes Back' and ' Return of the Jedi' was Luke. 
 For the 'Phantom Mentance' most common word was word one, for 'Attack of the Clones' it was Padme and for 'Revenge of the Sith' it was jedi.
-The most popular word in 'The Force Awakens' was Rey, for 'The Last Jedi' it was word 'get' and for the last movie - 'The Rise of Skylwalker' it was Threepio. 
+The most popular word in 'The Force Awakens' was Rey, for 'The Last Jedi' it was word 'get' and for the last movie - 'The Rise of Skywalker' it was Threepio. 
