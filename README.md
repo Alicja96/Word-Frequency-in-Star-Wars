@@ -11,7 +11,7 @@
 
 In this project, I will try to find out which words occurred more frequently in Star Wars movies. To do this I extracted transcripts of those movies from transcripts.fandom.com with use of beautifulsoup and requests. After that, I performed data cleaning and analysis using nltk.  
 
-
+I recommend viewing the notebook part of this project [here](https://nbviewer.jupyter.org/github/Alicja96/Word-Frequency-in-Star-Wars/blob/master/Word_Frequency_Star_Wars.ipynb).
 
 filename | description
 ------------ | -------------
